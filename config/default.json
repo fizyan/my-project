@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://shehzad_rana:root123@devconnector.9xuuq7v.mongodb.net/DevConnector?retryWrites=true&w=majority&appName=DevConnector/myDatabaseName",
+    "jwtSecert": "mysecerttoken"
+}
